@@ -1,0 +1,6 @@
+this has a few ways to reverse the string
+1. StringBuffer's reverse method 
+2. String iterative method
+3. Recursive method. Using substring
+4. Recursive method.
+5. Recursive method. No substring, just Index.  
